@@ -104,11 +104,6 @@
           position: static;
           margin: 20px 0;
         }
-        li {
-          &.keynote {
-            display: none; // Habilitar quando finalizar o evento.
-          }
-        }
       }
 
     &:hover {
